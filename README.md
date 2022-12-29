@@ -12,10 +12,6 @@ As already stated this project is an implementation of such board and made of 3 
 
 The entry point for a user is a website which is available under the address: **http://localhost:4200/**
 
-![Kanban](https://github.com/wkrzywiec/kanban-board/blob/master/assets/kanban.gif)
-
-More information about this project you can found in blog post: https://medium.com/@wkrzywiec/how-to-run-database-backend-and-frontend-in-a-single-click-with-docker-compose-4bcda66f6de
-
 ---
 
 ### Prerequisites
